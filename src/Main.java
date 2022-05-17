@@ -5,6 +5,8 @@ public class Main {
         int levelCompleted = 5;
         int bonus = 100;
 
+// Hey pangpang you are awesome!!
+
 //        if(score < 5000 && score > 1000) {
 //            System.out.println("Your score was less than 5000");
 //        } else if(score < 1000) {
